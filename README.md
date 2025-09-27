@@ -1,6 +1,6 @@
 ## Hi, Im Leo
 
-La vdd no se q poner pq estoy viendo un tutorial pero se programar maso
+Soy un estudiante de programación que lleva varios proyectos como Lutils el cual funciona para guardar la información de cualquier USB en una carpeta para el respaldo, y tambien fuí el programador principal de la aplicación de ZapaVentas, una aplicación de punto de venta con base de datos en MongoDB hecha como proyecto escolar.
 
 
 ## 🌐 Socials:
